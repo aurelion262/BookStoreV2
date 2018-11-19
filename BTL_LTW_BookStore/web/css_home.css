@@ -1,0 +1,107 @@
+#extention{
+	margin: auto;
+	width: 60%;
+}
+
+#body{
+        font-family: Calibri;
+        margin-top: 5px;
+	clear: left;
+	width: 100%;
+	height: auto;
+	background-color: lavender;
+}
+.book{
+	height: 140px;
+	width: 120px;
+}
+.link{
+	text-decoration: none;
+}
+#newprice{
+        font-family: ar bonnie;
+	font-weight: bold;
+	font-size: 18px;
+}
+#oldprice{
+        font-family: ar bonnie;
+	text-decoration: line-through;
+	font-size: 15px;
+}
+#bookname{
+	font-size: 18px;
+	font-style: italic;
+	font-family: times new roman;
+        height: 70px;
+}
+.abook{
+        background-color: #f0f0f0;
+        text-align: center;
+        float: left;
+        margin-top: 5px;
+	margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        width: 12.6%;
+}
+#discount{
+    width: 100%;
+    height: 250px;
+}
+#bestsalling{
+    width: 100%;
+    height: 250px;
+}
+#discounttext{
+        margin-top: 10px;
+	text-align: center;
+	font-size: 40px;
+	font-family: times new roman;
+        margin-bottom: 10px;
+	
+
+}
+#bestsallingtext{
+	clear: left;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 10px;
+	font-family: times new roman;
+}
+#text1{
+	color: brown;
+}
+#text2{
+	color: brown;
+}
+#footer{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+#address{
+	float: left;
+	width: 30%;
+}
+#slogan{
+	float: left;
+	width: 40%;
+
+}
+#payment{
+	float: left;
+	width: 30%;
+	text-align: center;
+}
+.text3{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.text4{
+	font-size: 19px;
+	text-align: center;
+}
+#soci{
+	text-align: center;
+}

@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 13, 2018, 1:30:48 AM
+    Author     : xSzy
+*/
+
+#body{
+    width: 100%;
+    height: auto;
+    background-color: lavender;
+}
+
+#imagedetailframe{
+    float: left;
+    width: 20%;
+    
+}
+
+#imagedetail{
+    margin-left: 5px;
+    margin-top: 5px;
+    
+    width: 100%;
+    height: auto;
+}
+
+#addtofav{
+    font-style:normal;
+    text-decoration: none;
+}
+
+#detailbook{
+    float: left;
+    width: 40%;
+}
+
+#desbook{
+    float: left;
+    width: 40%;
+}
+
+.infors{
+    margin-left: 50px;
+}
+
+.tensach{
+    font-weight: bold;
+    color: blue;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.item{
+    font-weight: bold;
+}
+
+.value{
+    font-weight: normal;
+}
+
+#oldprice{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+#newprice{
+    font-weight: bold;
+    font-size: 21px;
+    color: tomato;
+}
+
+#chuagiam{
+    text-decoration: line-through;
+}
+
+#cartimg{
+    width: 45px;
+    height: 45px;
+}

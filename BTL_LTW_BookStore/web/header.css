@@ -1,0 +1,62 @@
+#header{
+        font-family: times new roman;
+	width: 100%;
+        height: auto;
+	background-color: lightblue;
+        background-image: url("image/book.jpg");
+        margin-bottom: 10px;
+}
+
+#frames{
+        width: 40%;
+	float: right;
+}
+#logo{
+	width: 25%;
+        height: auto;
+	float: left;
+}
+#image{
+	width: 100%;
+        height: auto;
+}
+#functionpart{
+	float: left;
+	width: 75%;
+       
+}
+#infopart{
+        float:left;
+	height: auto;
+	width: 35%;
+}
+#headerslogan{
+        margin-left: 100px;
+        margin-top: 20px;
+	font-family: Freestyle Script;
+        font-size: 40px;
+        display: inline-block;
+}
+#contactpart{
+        margin-top: 20px;
+	float: left;
+        width: 65%;
+        height: auto;
+}
+#enterpagepart{
+        float: right;
+        width: 100%;
+        height: auto;
+        text-align:right;
+}
+#searchbar{
+        float:left;
+	width: 100%;
+}
+#extention{
+	margin: auto;
+	width: 60%;
+}
+.link{
+	text-decoration: none;
+}

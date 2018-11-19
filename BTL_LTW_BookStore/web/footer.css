@@ -1,0 +1,31 @@
+#footer{
+	width: 100%;
+	height: auto;
+	background-color: lightblue;
+}
+#address{
+	float: left;
+	width: 33%;
+}
+#footercontact{
+	float: left;
+	width: 34%;
+
+}
+#payment{
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+.text3{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.text4{
+	font-size: 19px;
+	text-align: center;
+}
+#soci{
+	text-align: center;
+}

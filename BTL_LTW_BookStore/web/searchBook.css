@@ -1,0 +1,152 @@
+#header{
+        font-family: comic sans ms;
+	width: 100%;
+	height: 100px;
+	background-color: white;
+}
+
+#frames{
+	width: 700px;
+	float: top;
+}
+#logo{
+	height: 100px;
+	width: 20%;
+	float: left;
+}
+#image{
+	height: 100px;
+	width: 90%;
+}
+#functionpart{
+	float: left;
+	width: 80%;
+}
+#infopart{
+        float:top;
+	height: 50px;
+	width: 100%;
+}
+#email{
+	float: left;
+	margin-left: 100px;
+	font-family: Verdana, sans-serif;
+}
+#sdt{
+	float: left;
+	margin-left: 100px;
+	font-family: Verdana, sans-serif;
+}
+#contactpart{
+	float: left;
+}
+#enterpagepart{
+        float:top;
+	float: right;
+}
+#searchbar{
+        float:top;
+	margin: auto;
+	width: 100%;
+}
+#extention{
+	margin: auto;
+	width: 60%;
+}
+
+#body{
+        font-family: Calibri;
+        margin-top: 30px;
+	clear: left;
+	width: 100%;
+	height: 700px;
+	background-color: #d0b795;
+        overflow: auto;
+}
+.book{
+	height: 250px;
+	width: 180px;
+}
+.link{
+	text-decoration: none;
+}
+#newprice{
+        font-family: Calibri;
+	font-weight: bold;
+	font-size: 22px;
+}
+#oldprice{
+        font-family: ar bonnie;
+	text-decoration: line-through;
+	font-size: 15px;
+}
+#bookname{
+	font-size: 22px;
+	font-family: Calibri;
+}
+.abook{
+        background-color: #d8c3a6;
+        float: left;
+        padding: 13px;
+	margin: 13px;
+        width: 46%;
+}
+#discount{
+    width: 100%;
+    height: 250px;
+}
+#bestsalling{
+    width: 100%;
+    height: 250px;
+}
+#discounttext{
+	text-align: center;
+	font-size: 40px;
+	font-family: andalus;
+	
+
+}
+#bestsallingtext{
+	clear: left;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 10px;
+	font-family: andalus;
+}
+#text1{
+	color: brown;
+}
+#text2{
+	color: brown;
+}
+#footer{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+#address{
+	float: left;
+	width: 30%;
+}
+#slogan{
+	float: left;
+	width: 40%;
+
+}
+#payment{
+	float: left;
+	width: 30%;
+	text-align: center;
+}
+.text3{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.text4{
+	font-size: 19px;
+	text-align: center;
+}
+#soci{
+	text-align: center;
+}
